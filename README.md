@@ -1,129 +1,136 @@
-# ⚡ VEDANT BHATNAGAR // DIGITAL ARCHITECT
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00F5FF,100:7A00FF&height=220&section=header&text=VEDU&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=BUILDING%20THE%20IMPOSSIBLE&descAlignY=58&descSize=18"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                    CYBER // BOOT                       -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020308,35:07111C,65:101A2E,100:020308&text=VEDANT&fontSize=92&fontColor=E8FFFF&fontAlignY=42&animation=twinkling&desc=CREATIVE%20ENGINEER%20%2F%2F%20DIGITAL%20ARCHITECT&descAlignY=62&descSize=17&descColor=5FFBFF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=500&color=5FFBFF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+INITIALIZED+%5D;%3E%3E%3E+WELCOME%2C+VEDANT.;CREATIVE+ENGINEER+%2F%2F+GAME+DEV+%2F%2F+WEB+DEV;BUILDING+WORLDS+THAT+SHOULDN'T+EXIST.;%5B+SIGNAL+LOCKED+%5D" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;GAME+DEVELOPER;CREATIVE+TECH+EXPLORER;BUILDING+%7C+BREAKING+%7C+REBUILDING;WELCOME+TO+MY+DIGITAL+LAB+%E2%9A%A1" />
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-050505?style=for-the-badge\&logo=github\&logoColor=00F5FF)](https://github.com/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge\&logo=vercel\&logoColor=7A00FF)](#)
-[![Discord](https://img.shields.io/badge/DISCORD-050505?style=for-the-badge\&logo=discord\&logoColor=5865F2)](#)
+<img src="https://img.shields.io/badge/●%20SYSTEM_ONLINE-05080D?style=for-the-badge&labelColor=05080D&color=00E5FF"/>
+<img src="https://img.shields.io/badge/◈%20BUILDING-05080D?style=for-the-badge&labelColor=05080D&color=7B61FF"/>
+<img src="https://img.shields.io/badge/⌁%20EXPERIMENTAL-05080D?style=for-the-badge&labelColor=05080D&color=FF3CAC"/>
 
 </div>
 
 ---
-
-## `> SYSTEM.IDENTITY`
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                 DIGITAL PROFILE                      ║
-╠══════════════════════════════════════════════════════╣
-║ USER        :: VEDANT                                ║
-║ CLASS       :: DEVELOPER / CREATOR                   ║
-║ MODE        :: BUILDING                              ║
-║ STATUS      :: ONLINE ●                              ║
-║ CURRENT     :: EXPERIMENTING                         ║
-║ MISSION     :: TURNING IDEAS INTO REAL THINGS        ║
-╚══════════════════════════════════════════════════════╝
-```
-
-> I like turning weird ideas into things people can actually **use, play, or experience.**
-
-I build across **web development, game development, creative tools, interactive experiences and experimental tech.**
-
----
-
-## `> CURRENT.PROCESS`
 
 <div align="center">
 
 ```text
-[████████████████████░░] 85%
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   V E D A N T   //   D I G I T A L   I D E N T I T Y              ║
+║                                                                    ║
+║   ┌─────────────────────┐     ┌───────────────────────────────┐   ║
+║   │  STATUS             │     │  CURRENT DIRECTIVE            │   ║
+║   │                     │     │                               │   ║
+║   │  ● ONLINE           │     │  BUILD. BREAK. REBUILD.       │   ║
+║   │  SIGNAL: STABLE     │     │  TURN IDEAS INTO SYSTEMS.     │   ║
+║   │  CORE: CREATIVE     │     │                               │   ║
+║   └─────────────────────┘     └───────────────────────────────┘   ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
-
-### `BUILD → BREAK → LEARN → REBUILD`
 
 </div>
 
-* ⚡ Experimenting with ambitious web experiences
-* 🎮 Building games & interactive worlds
-* 🧪 Exploring new technologies
-* 🎨 Mixing design with engineering
-* 🚀 Shipping projects instead of just collecting ideas
+<br>
+
+## `// 01 — IDENTITY`
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### `VEDANT.exe`
+
+I'm a developer who likes taking an idea that sounds slightly ridiculous and asking:
+
+> **"Okay... but what if we actually built it?"**
+
+I work across:
+
+`WEB` · `GAMES` · `DESIGN` · `CREATIVE TOOLS` · `EXPERIMENTAL TECH`
+
+I care about **how things feel**, not just whether they work.
+
+</td>
+
+<td width="42%" valign="top">
+
+```text
+┌──────────────────────────┐
+│       CORE SYSTEM        │
+├──────────────────────────┤
+│                          │
+│  WEB          ████████░  │
+│  GAME DEV     ███████░░  │
+│  DESIGN       ████████░  │
+│  EXPERIMENT   █████████  │
+│                          │
+│  CURIOSITY    ∞∞∞∞∞∞∞∞   │
+│                          │
+└──────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
-
-## `> TECH.ARSENAL`
 
 <div align="center">
 
-### `LANGUAGES`
+# `// 02 — THE LAB`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![C%23](https://img.shields.io/badge/C%23-050505?style=for-the-badge\&logo=csharp\&logoColor=9B4F96)
-
-### `WEB`
-
-![React](https://img.shields.io/badge/React-050505?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-050505?style=for-the-badge\&logo=threedotjs\&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-050505?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
-![Node.js](https://img.shields.io/badge/Node.js-050505?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
-
-### `GAME DEV`
-
-![Unity](https://img.shields.io/badge/Unity-050505?style=for-the-badge\&logo=unity\&logoColor=FFFFFF)
-![Godot](https://img.shields.io/badge/Godot-050505?style=for-the-badge\&logo=godotengine\&logoColor=478CBF)
-
-### `TOOLS`
-
-![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-050505?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=900&color=7B61FF&center=true&vCenter=true&width=650&lines=%5B+SCANNING+PROJECT+ARCHIVE...+%5D;%5B+4+ACTIVE+SYSTEMS+DETECTED+%5D;%5B+OPENING+PROJECT+VAULT...+%5D" />
 
 </div>
 
----
-
-# `> FEATURED.SYSTEMS`
+<br>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ CROP TOP
-
-**CREATIVE IMAGE ENGINE**
+### `01 // CROP TOP`
 
 ```text
-STATUS :: ONLINE
-TYPE   :: CREATIVE TOOL
+TYPE      :: CREATIVE ENGINE
+STATUS    :: ACTIVE
+CORE      :: IMAGE PROCESSING
+THREAT    :: NONE
 ```
 
-A creative image editing experiment focused on fast visual manipulation.
+**Crop it. Fix it. Cook it.**
+
+A creative image editing environment designed around fast experimentation and visual control.
+
+`[ OPEN SYSTEM → ]`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 VOID NINJA
-
-**2D GAME SYSTEM**
+### `02 // VOID NINJA`
 
 ```text
-STATUS :: IN DEVELOPMENT
-TYPE   :: GAME
+TYPE      :: GAME
+STATUS    :: DEVELOPING
+ENGINE    :: GODOT
+STYLE     :: HAND-DRAWN
 ```
 
-A stylized hand-drawn game experiment built around movement and atmosphere.
+A stylized 2D experience built around movement, atmosphere and a deliberately imperfect visual identity.
+
+`[ ENTER WORLD → ]`
 
 </td>
 
@@ -131,33 +138,35 @@ A stylized hand-drawn game experiment built around movement and atmosphere.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌌 NEXUS DRIVE
-
-**INTERACTIVE EXPERIENCE**
+### `03 // NEXUS DRIVE`
 
 ```text
-STATUS :: EXPERIMENTAL
-TYPE   :: UNITY
+TYPE      :: INTERACTIVE
+STATUS    :: EXPERIMENTAL
+ENGINE    :: UNITY
 ```
 
 A futuristic driving experiment exploring speed, environments and interaction.
 
+`[ INITIALIZE → ]`
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧬 CHRONICLE
-
-**DIGITAL SYSTEM**
+### `04 // CHRONICLE`
 
 ```text
-STATUS :: BUILDING
-TYPE   :: WEB APP
+TYPE      :: DIGITAL SYSTEM
+STATUS    :: BUILDING
+STACK     :: WEB
 ```
 
-An experimental productivity / tracking concept.
+An experimental system for organizing progress, ideas and personal development.
+
+`[ ACCESS → ]`
 
 </td>
 
@@ -166,83 +175,100 @@ An experimental productivity / tracking concept.
 
 ---
 
-## `> GITHUB.METRICS`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00F5FF&icon_color=7A00FF&text_color=FFFFFF&rank_icon=github" height="180"/>
+# `// 03 — TECHNOLOGY MATRIX`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF" height="180"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,react,threejs,tailwind,nodejs,firebase,unity,godot,git,github&perline=7" />
 
-</div>
-
----
-
-## `> ACTIVITY.MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00F5FF&line=7A00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `> CONTRIBUTION.SIGNAL`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=050505&ring=00F5FF&fire=7A00FF&currStreakLabel=00F5FF"/>
-
-</div>
-
----
-
-## `> TERMINAL.LOG`
-
-```bash
-$ whoami
-
-vedu
-
-$ cat mission.txt
-
-Build things that shouldn't exist.
-
-$ current_status
-
-ONLINE
-
-$ next_objective
-
->> CREATE SOMETHING INSANE
-```
-
----
-
-## `> RANDOM.DATA`
+<br><br>
 
 ```text
-⚡ I enjoy building more than talking about building.
-
-🎮 Game development
-🌐 Web experiences
-🎨 Creative technology
-🧪 Experimental projects
-🚀 Hackathons
-🧠 Learning something new every day
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  JAVASCRIPT     ████████████████████░░  ONLINE            │
+│  REACT          ███████████████████░░░  ONLINE            │
+│  THREE.JS       ████████████████░░░░░  ONLINE             │
+│  UNITY          █████████████████░░░░  ONLINE             │
+│  GODOT          ███████████████░░░░░░  ONLINE             │
+│  PYTHON         ██████████████░░░░░░░  LEARNING           │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
+
+</div>
 
 ---
 
 <div align="center">
 
-## `// CONNECTION ESTABLISHED`
+# `// 04 — SIGNAL`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,50:00F5FF,100:050505&height=120&section=footer&animation=twinkling"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=05080D&color=5FFBFF&line=7B61FF&point=FFFFFF&area=true&area_color=101A2E&hide_border=true&custom_title=VEDANT%20%2F%2F%20ACTIVITY%20SIGNAL"/>
 
-### `BUILD SOMETHING WORTH REMEMBERING.`
+</div>
 
-**`[ SYSTEM // ONLINE ]`**
+<br>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=05080D&title_color=5FFBFF&icon_color=7B61FF&text_color=D7F9FF&ring_color=7B61FF&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=05080D&title_color=5FFBFF&text_color=D7F9FF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `// 05 — TRANSMISSION`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=FF3CAC&center=true&vCenter=true&width=700&lines=%3E+THE+SYSTEM+IS+NEVER+FINISHED.;%3E+THERE+IS+ALWAYS+ANOTHER+THING+TO+BUILD.;%3E+ANOTHER+WORLD+TO+EXPLORE.;%3E+ANOTHER+IDEA+TO+BREAK.;%5B+END+OF+TRANSMISSION+%5D"/>
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-05080D?style=for-the-badge&logo=github&logoColor=5FFBFF"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/PORTFOLIO-05080D?style=for-the-badge&logo=vercel&logoColor=7B61FF"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CONTACT-05080D?style=for-the-badge&logo=gmail&logoColor=FF3CAC"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+                    ╱╲
+                   ╱  ╲
+                  ╱ ◉  ╲
+                 ╱      ╲
+                ╱────────╲
+               ╱   VEDANT ╲
+              ╱────────────╲
+             ╱              ╲
+            ╱   SYSTEM END   ╲
+           ╱__________________╲
+
+              SIGNAL: LOST
+```
+
+<br>
+
+`[ CONNECTION TERMINATED ]`
+
+`VEDANT // 2026`
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020308,40:101A2E,70:7B61FF,100:020308&height=130&section=footer&animation=twinkling"/>
 
 </div>
